@@ -1,0 +1,29 @@
+.container-fluid{
+  margin: 4rem;
+}
+a{
+  color:#666;
+  text-decoration: none;
+}
+a:hover{
+  color: #1ebba3;
+}
+svg.svg-inline--fa{
+  font-size: 1.6rem;
+  margin: 1.2rem .5rem 0 0;
+}
+.boxA{
+  margin-left: 3rem;
+}
+.boxB{
+  margin:1rem 1rem 0 3rem ;
+}
+.heading-underline{
+  width: 3rem;
+  height: .2rem;
+  background-color: #FFBC42;
+  margin:0 0 1.2rem 1rem !important;
+}
+#contact{
+  padding-top: 1rem;
+}

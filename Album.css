@@ -1,0 +1,41 @@
+#alb{
+  margin-top: 2rem;
+}
+/*----Portfolio---*/
+
+.album{
+  position: relative;
+  z-index: 5;
+  width:300px;
+  margin:auto;
+  display: block;
+  padding-bottom: 20rem;
+}
+.album img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 5px solid #fff;
+  box-shadow: 1px 1px 2px #666;
+  width: 300px;
+  height: 300px;
+  display: block;
+  transition: .3s linear;
+}
+
+.album:hover .photo1, .album:focus .photo1{
+  transform: rotate(-6deg) translate(-50px,-3px) scale(1.1);
+}
+.album:hover .photo2, .album:focus .photo2{
+  transform: rotate(6deg) translate(50px,3px) scale(1.1);
+}
+.row .no-padding [class*=col-]{
+  display: grid;
+  grid-column: auto auto;
+}
+.portfolio{
+  overflow: hidden;
+}
+.portfolio p{
+  padding-top: 1rem;
+}
