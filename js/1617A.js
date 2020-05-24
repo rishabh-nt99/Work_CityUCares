@@ -52,7 +52,7 @@ function initMenu() {
       "imgLink":"img/collection/16-17SemA/17.jpg",
     },
     {"description":"Picture 18",
-      "imgLink":"img/collection/16-17SemA/18.jpg",
+      "imgLink":"img/collection/16-17SemA/18.JPG",
     }
   ]
   }

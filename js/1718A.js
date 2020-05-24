@@ -7,7 +7,7 @@ function initMenu() {
       "imgLink":"img/collection/17-18SemA/2.jpg",
     },
     {"description":"Picture 3",
-      "imgLink":"img/collection/17-18SemA/3.jpg",
+      "imgLink":"img/collection/17-18SemA/3.JPG",
     },
     {"description":"Picture 4",
       "imgLink":"img/collection/17-18SemA/4.jpg",
@@ -40,13 +40,13 @@ function initMenu() {
       "imgLink":"img/collection/17-18SemA/13.jpg",
     },
     {"description":"Picture 14",
-      "imgLink":"img/collection/17-18SemA/14.jpg",
+      "imgLink":"img/collection/17-18SemA/14.JPG",
     },
     {"description":"Picture 15",
-      "imgLink":"img/collection/17-18SemA/15.jpg",
+      "imgLink":"img/collection/17-18SemA/15.JPG",
     },
     {"description":"Picture 16",
-      "imgLink":"img/collection/17-18SemA/16.jpg",
+      "imgLink":"img/collection/17-18SemA/16.JPG",
     }
   ]
   }
